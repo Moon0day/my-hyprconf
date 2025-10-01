@@ -12,11 +12,11 @@ hyprctl reload
  AUR required
  ```bash
 yay -S waybar wofi
-sudo pacman -S neovim
+sudo pacman -S neovim thunar
 ```
 for debian based systems:
 ```bash
-sudo apt install waybar cava wofi neovim
+sudo apt install waybar cava wofi neovim thunar
 ```
 # Done 
 enjoy this config for now its all i gots vro :)
