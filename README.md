@@ -7,3 +7,16 @@ so this config is still basic but works u can customize it ur self i will show p
 git clone https://github.com/Moon0day/my-hyprconf/ ~/.config/hypr/
 hyprctl reload
 ```
+# Dependencies
+ for arch based systems:
+ AUR required
+ ```bash
+yay -S waybar wofi
+sudo pacman -S neovim
+```
+for debian based systems:
+```bash
+sudo apt install waybar cava wofi neovim
+```
+# Done 
+enjoy this config for now its all i gots vro :)
